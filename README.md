@@ -6,9 +6,9 @@ Simple Scratch Program Demonstrating how to make the Jade Robot Move Forwards fo
 ### Project Information
 ```
 Type              : Scratch
-Version           : 01.0
+Version           : 1.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 ### Release History:
